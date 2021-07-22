@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#1F321C",
+			"titleBar.activeBackground": "#2B4727",
+			"titleBar.activeForeground": "#FAFCF9"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "React-poc"
+	}
+}
